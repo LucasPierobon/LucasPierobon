@@ -1,4 +1,11 @@
-## Hi there 👋
+### HOLA!!!👋
+#### Mi nombre es Lucas rengo 15 años, naci el 21/03/11
+### Voy al Impa orientacion Avionica
+#### Las cosas que me gustan son:
+- <strong>Programar</strong>
+- <strong>El Deporte</strong>
+- <strong>Jugar a la Compu</strong>
+![alt text](image-1.png)
 
 <!--
 **LucasPierobon/LucasPierobon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +13,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 
+🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
