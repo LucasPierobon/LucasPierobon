@@ -5,6 +5,8 @@
 - <strong>Programar</strong>
 - <strong>El Deporte</strong>
 - <strong>Jugar a la Compu</strong>
+
+
 ![alt text](image-1.png)
 
 <!--
