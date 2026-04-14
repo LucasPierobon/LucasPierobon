@@ -1,5 +1,5 @@
 ### HOLA!!!👋
-#### Mi nombre es Lucas rengo 15 años, naci el 21/03/11
+#### Mi nombre es Lucas tengo 15 años, naci el 21/03/11
 ### Voy al Impa orientacion Avionica
 #### Las cosas que me gustan son:
 - <strong>Programar</strong>
